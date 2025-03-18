@@ -12,4 +12,4 @@ This repository contains a simple Python project to complete basic assignments a
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/basic-python-assignment.git
+   git clone https://github.com/amilselvanrangasamy/Python.git
