@@ -1,4 +1,4 @@
-temperature=float(input("Enter temperature in celsius: "))
+temperature=float(input("What is the temperature in Celsius? "))
 if temperature < 10:
     print("It's cold! Wear a warm coat and scarf.")
 elif temperature <= 25:
